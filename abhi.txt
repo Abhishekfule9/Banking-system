@@ -1,0 +1,9 @@
+Hello my name is abhishek
+my age is 23
+my gender is male
+Hello my name is sachin
+my age is 23
+my gender is mle
+Hello my name is deashot 
+my age is 23
+my gender is male
